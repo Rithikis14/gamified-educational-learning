@@ -1,7 +1,5 @@
 # EcoLearn - Your Personalized Gamified Educational Learning Platform
 
-> *A short one-line description — replace this with what your project does.*
-
 ## Table of contents
 
 * [About](#about)
@@ -21,7 +19,7 @@
 
 ## About
 
-`vi` is a small project that **(briefly describe the purpose of the repo here)**. Replace this paragraph with a short explanation of what the project does, who it's for, and why it exists.
+`EcoLearn` is a project tha **(briefly describe the purpose of the repo here)**. Replace this paragraph with a short explanation of what the project does, who it's for, and why it exists.
 
 Examples:
 
