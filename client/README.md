@@ -1,4 +1,4 @@
-# vi
+# EcoLearn - Your Personalized Gamified Educational Learning Platform
 
 > *A short one-line description — replace this with what your project does.*
 
